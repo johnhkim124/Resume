@@ -1,0 +1,19 @@
+{
+  "name": "John Kim",
+  "website": "https://github.com/johnhkim124",
+  "linkedin": "https://www.linkedin.com/in/johnkim/",
+  "github": "johnhkim124",
+  "email": "johnkim@generalassemb.ly",
+  "resume": "dont have one yet",
+  "proficientTechnologies": [
+    "Javascript",
+    "Node",
+    "React",
+    "Mongodb",
+    "etc"
+  ],
+  "otherSkills": [
+    "Cooking",
+    "Gaming"
+  ]
+}
